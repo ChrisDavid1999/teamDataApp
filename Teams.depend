@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1593704649 source:d:\projects\teams\player.cpp
+	"player.h"
+
+1593359582 d:\projects\teams\player.h
+	<string>
+	<sstream>
+	<iostream>
+
+1593710827 source:d:\projects\teams\team.cpp
+	"team.h"
+
+1593710810 d:\projects\teams\team.h
+	<string>
+	<vector>
+	<iostream>
+	"player.h"
+
+1593704408 source:d:\projects\teams\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<string>
+	"team.h"
+	"player.h"
+
+1593704649 source:c:\users\chris\documents\github\teamdataapp\player.cpp
+	"player.h"
+
+1593359582 c:\users\chris\documents\github\teamdataapp\player.h
+	<string>
+	<sstream>
+	<iostream>
+
+1593710827 source:c:\users\chris\documents\github\teamdataapp\team.cpp
+	"team.h"
+
+1593710810 c:\users\chris\documents\github\teamdataapp\team.h
+	<string>
+	<vector>
+	<iostream>
+	"player.h"
+
+1594796912 source:c:\users\chris\documents\github\teamdataapp\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<string>
+	"team.h"
+	"player.h"
+	"edit.h"
+
+1594796948 c:\users\chris\documents\github\teamdataapp\edit.h
+	<iostream>
+	<map>
+	<fstream>
+	<string>
+	"team.h"
+	"player.h"
+

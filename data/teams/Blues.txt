@@ -1,0 +1,5 @@
+Blues
+ST,Werner,86
+CAM,Pulisic,83
+RW,Pedro,81
+LW,Hazard,91
